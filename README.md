@@ -1,7 +1,7 @@
 # Galaxy Simulator – Barnes–Hut Algorithm
 ## Demo
 <video width="800" controls>
-  <source src="assets/Demo.mp4" type="video/mp4">
+  <source src="[assets/Demo.mp4](https://github.com/AminataAliouBa/Galaxy-Simulator---M1-project/blob/main/assets/Demo.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
