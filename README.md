@@ -1,4 +1,10 @@
 # Galaxy Simulator – Barnes–Hut Algorithm
+## Demo
+<video width="800" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 This project is a real-time galaxy simulator based on the Barnes–Hut algorithm, designed to model gravitational interactions among thousands of particles efficiently.
 The simulator combines a C++ physics engine for performance-critical calculations with a Python (Pygame) graphical interface for interactive visualization.
