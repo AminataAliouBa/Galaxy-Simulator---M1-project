@@ -11,7 +11,7 @@ The simulator combines a C++ physics engine for performance-critical calculation
 - Interactive and visual rendering using Pygame.
 
 ## Project Structure
-GalaxySimulator/
+GalaxySimulator/<br>
 │<br>
 ├─ cppcore/<br>
 │   ├─ Particle.h<br>
