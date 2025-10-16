@@ -12,19 +12,19 @@ The simulator combines a C++ physics engine for performance-critical calculation
 
 ## Project Structure
 GalaxySimulator/
-│
-├─ cppcore/
-│   ├─ Particle.h
-│   ├─ Particle.cpp
-│   ├─ Quad.h
-│   ├─ Quad.cpp
-│   ├─ QuadTree.h
-│   ├─ QuadTree.cpp
-│   └─ pybind_module.cpp
-│
-├─ py/
-│   └─ main.py
-│
+│<br>
+├─ cppcore/<br>
+│   ├─ Particle.h<br>
+│   ├─ Particle.cpp<br>
+│   ├─ Quad.h<br>
+│   ├─ Quad.cpp<br>
+│   ├─ QuadTree.h<br>
+│   ├─ QuadTree.cpp<br>
+│   └─ pybind_module.cpp<br>
+│<br>
+├─ py/<br>
+│   └─ main.py<br>
+│<br>
 └─ CMakeLists.txt
 
 ## Installation
