@@ -1,6 +1,6 @@
 # Galaxy Simulator – Barnes–Hut Algorithm
 ## Demo
-[![Galaxy Simulator Demo](https://img.youtube.com/vi/<E_6fFaHmOTc>/0.jpg)](https://www.youtube.com/watch?v=<E_6fFaHmOTc>)
+[![Galaxy Simulator Demo](https://img.youtube.com/vi/E_6fFaHmOTc/0.jpg)](https://www.youtube.com/watch?v=E_6fFaHmOTc)
 
 
 This project is a real-time galaxy simulator based on the Barnes–Hut algorithm, designed to model gravitational interactions among thousands of particles efficiently.
