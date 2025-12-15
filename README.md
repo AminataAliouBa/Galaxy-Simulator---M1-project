@@ -1,5 +1,5 @@
 # Galaxy Simulator – Barnes–Hut Algorithm
-## Demo
+## Clik to see video Demo
 [![Galaxy Simulator Demo](https://img.youtube.com/vi/E_6fFaHmOTc/0.jpg)](https://www.youtube.com/watch?v=E_6fFaHmOTc)
 
 
